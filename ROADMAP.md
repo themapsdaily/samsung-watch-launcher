@@ -4,7 +4,7 @@ Status: **Open**, **Spike** (feasibility unknown, test first). Nothing is tested
 
 ## 0. Facts to settle first
 - [ ] Exact model (Watch4/5/6/7/Ultra?) and One UI Watch version. Run `watch.py check`.
-- [ ] Is it Wear OS (Watch4 and later) or Tizen (Watch3 and earlier)? Tizen has no adb package manager route, so this plan only applies to Wear OS.
+- [x] Wear OS confirmed (Galaxy Watch 4 or later), so the adb route applies. Still need the exact model from `watch.py check`.
 
 ## 1. Debloat
 - [ ] `watch.py dump`, then split into batches: Samsung extras, Google extras, telemetry, health features you never use.
