@@ -1,0 +1,11 @@
+.env
+backup/
+debloat/log.tsv
+debloat/packages-*.txt
+**/build/
+**/.gradle/
+**/local.properties
+.vscode/
+
+# Other people's projects, cloned for reference: see README for links.
+reference/

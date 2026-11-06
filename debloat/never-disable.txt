@@ -1,0 +1,9 @@
+com.google.android.gms
+com.android.vending
+com.android.systemui
+com.android.bluetooth
+com.android.inputmethod.latin
+com.google.android.wearable.app
+com.samsung.android.app.watchmanager
+com.samsung.android.shealthmonitor
+android
